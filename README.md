@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+I am Prosit Kumar Das from Bangladesh.
 
-
-👋 Hi, I am Prosit Kumar Das from Bangladesh.
-
-I enjoy doing both design and development. Love learning new languages and frameworks. Love working with android studio and ofcourse, who hasn't heard about unity? In addition, I've gained a lot of knowledge about contemporary web development tools and software development architectures like MVC, etc. To expand my knowledge, I am currently concentrating on machine learning and deep learning.
+I enjoy both design and development, and I love learning new languages and frameworks. In addition, I've gained a lot of knowledge about contemporary web development tools and software development architectures like MVC, etc. Recently, I have delved into web development using the 3NP stack.
 
 📫 How to reach me: prosit.kd@gmail.com
 
