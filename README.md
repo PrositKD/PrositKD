@@ -1,8 +1,4 @@
-### Hi there 👋 
-
-
-📫 How to reach me: prosit.kd@gmail.com
-
-|### Hi there 👋 | Language Contribution |
-|---| --- |
-I am Prosit Kumar Das from Bangladesh.I enjoy both design and development, and I love learning new languages and frameworks. In addition, I've gained a lot of knowledge about contemporary web development tools and software development architectures like MVC, etc. Recently, I have delved into web development using the 3NP stack.| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrositKD&theme=tokyonight) |
+|### About Me ### | Language Contribution |
+| --- | --- |
+I'm Prosit Kumar Das from Bangladesh, passionate about design and development. I specialize in Node.js, Next.js, and Nest.js, with additional expertise in ASP.NET, MVC, and 3-layer architecture. Always eager to push the boundaries in web development.| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrositKD&theme=tokyonight) |
+📫 Reach me: prosit.kd@gmail.com
